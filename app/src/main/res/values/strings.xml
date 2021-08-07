@@ -4,6 +4,6 @@
     <string name="preço_alcool">Preço do Álcool</string>
     <string name="calcular">Calcular</string>
     <string name="melhor_de">É melhor você ir de...</string>
-    <string name="resultado">GASOLINA</string>
+    <string name="resultado"></string>
     <string name="banner_content">Dois bicos de abastecimento, nas cores vermelho e verde, representando a gasolina e o etanol, respectivamente.</string>
 </resources>
